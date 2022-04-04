@@ -16,7 +16,7 @@ const Dashbord = () => {
     };
 
     return (
-        <div className='grid container mx-auto lg:grid-cols-2 md:grid-cols-1  sm:grid-cols-1'>
+        <div className='grid my-10 container mx-auto lg:grid-cols-2 md:grid-cols-1  sm:grid-cols-1'>
             <div>
                 <LineChart
                     width={500}

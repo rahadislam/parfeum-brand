@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "name": "Rahad islam",
+        "feedback":"These are okay. They’re not great. I used to buy them all the time, even when they stopped getting the job done, when I didn’t know any better. ",
+        "img": "https://img.freepik.com/free-photo/close-up-confident-male-employee-white-collar-shirt-smiling-camera-standing-self-assured-against-studio-background_1258-26761.jpg?w=2000",
+        "rating": 5
+    },
+    {   "id":2,
+        "feedback":"I don’t use these for children. They are great to have in the car, and in your pocket book . I like to use them for my hands when I’m out and about ",
+        "name": "Jahid islam",
+        "img": "https://media.istockphoto.com/photos/young-man-looking-at-digital-tablet-picture-id1184382530?k=20&m=1184382530&s=612x612&w=0&h=-G67wR9BU2-XqLTR70purl0vb2PFbu3OAg0T7O_ZpiI=",
+        "rating": 3
+    },
+    {   "id":3,
+        "feedback":"I'm lucky my newborn does not have sensitive skin but I prefer these wipes because they are the softest compared to a few other brands I tried .",
+        "name": "Max wall",
+        "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=2000",
+        "rating": 1
+    },
+    {   "id":4,
+        "feedback":"I definitely prefer these wipes over the competition. My wife and I typically buy Huggies diapers, but didn’t care for their wipes at all.",
+        "name": "Alvart Nuton",
+        "img": "https://media.istockphoto.com/photos/confident-young-man-in-casual-green-shirt-looking-away-standing-with-picture-id1324558913?b=1&k=20&m=1324558913&s=170667a&w=0&h=rD4nowfc1q5ZxQsT6SRQyw6as33CYCIRF4LPs6vkqEM=",
+        "rating": 2
+    },
+    {   "id":5,
+        "feedback":"I love the sensitive baby wipes from pampers. My son has extra sensitive skin and this has been the perfect match for him.No residue or left over buttery feel",
+        "name": "Imran Khan",
+        "img": "https://media.istockphoto.com/photos/mature-man-with-glasses-wearing-grey-jacket-picture-id1248945613?b=1&k=20&m=1248945613&s=170667a&w=0&h=WpUmJddsa9mCdfxRPm6JRarovygNx-Oh3rHDHte5cVQ=",
+        "rating": 5
+    },
+    {   "id":6,
+        "feedback":"I honestly bought tons of boxes of this when I was pregnant. I don't know of if its because they went bad for some reason maybe I got unlucky.",
+        "name": "Bill gets",
+        "img": "https://media.istockphoto.com/photos/mature-ethnic-man-wearing-eyeglasses-at-home-picture-id1319763230?b=1&k=20&m=1319763230&s=170667a&w=0&h=vqnbgy5ln6NvFK6OqRxl1jtIXstEN3xkWjVHMAbTKH8=",
+        "rating": 4
+    }
+]
