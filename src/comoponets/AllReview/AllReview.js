@@ -5,7 +5,7 @@ const AllReview = () => {
     const [reviews, setReviews] = useReview({});
     return (
         <div className='container mx-auto my-10'>
-            <div  className='grid grid-cols-3 gap-8'>
+            <div  className='grid md:grid-cols-3 gap-8 sm:grid-cols-1 mx-5'>
                 {
                     reviews.map(review => <ReviewCard
                         key={review.id}

@@ -4,7 +4,7 @@ const ReviewCard = (props) => {
     const {name,img,rating,feedback}=props.info;
 
     return (
-        <div className='bg-stone-50 p-5 rounded-lg drop-shadow-lg'>
+        <div className='bg-stone-50 p-5 rounded-lg drop-shadow-lg my-5'>
             <div className='flex items-center my-5'>
                 <img className='w-16 h-16 rounded-full drop-shadow-lg' src={img} alt="" />
                 <span className='ml-4 font-medium'>{name}</span>

@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import About from './comoponets/About/About';
 import AllReview from './comoponets/AllReview/AllReview';
-import Blog from './comoponets/AllReview/Blog/Blog';
+import Blog from './comoponets/Blog/Blog';
 import Dashbord from './comoponets/Dashboard/Dashbord';
 import Home from './comoponets/Home/Home';
 import Navber from './comoponets/Navber/Navber';
