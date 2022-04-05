@@ -10,7 +10,7 @@ const Navber = () => {
                 {open ? <XIcon></XIcon> : <MenuIcon></MenuIcon>}
             </div>
             <nav className={`sm:inline md:flex justify-center absolute md:static duration-500 ease-in ${open ? 'top-6': 'top-[-120px]'} ml-3 text-2xl`}>
-            <Link className='ml-3 font-normal border-b-2 hover:border-b-2 border-indigo-500 hover:text-cyan-600' to="/">Home</Link>
+            <Link className='ml-3 font-normal border-b-2 border-transparent hover:border-b-2 border-indigo-500 hover:text-cyan-600' to="/">Home</Link>
             <Link className='ml-5 font-normal hover:border-b-2 border-indigo-500 hover:text-cyan-600' to="/reviews">Reviews</Link>
             <Link className='ml-5 font-normal hover:border-b-2 border-indigo-500 hover:text-cyan-600' to="/dashboard">Dashboard</Link>
             <Link className='ml-5 font-normal hover:border-b-2 border-indigo-500 hover:text-cyan-600' to="/blogs">Blogs</Link>
